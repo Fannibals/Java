@@ -1,6 +1,4 @@
 /**
- * Project C
- * Author: Yuming Shen, ID: 719088, Date: 2018/5/24
  * This is a NimHumanPlayer class inherited from NimPlayer
  */
 
