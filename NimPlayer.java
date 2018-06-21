@@ -1,6 +1,4 @@
 /**
- * Project C
- * Author: Yuming Shen, ID: 719088, Date: 2018/5/20
  * There are several methods and variables, which will be used in Nimsys and NimGame
  */
 
