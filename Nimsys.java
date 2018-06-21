@@ -2,8 +2,6 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Project C
- * Author: Yuming Shen, ID: 719088, Date: 2018/5/24
  * This project is aim to run a game called NIM.
  * Nimsys includes the idle part before or after the real gaming part begin.
  */
